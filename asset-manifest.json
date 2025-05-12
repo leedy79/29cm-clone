@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/29cm-clone/static/css/main.cd9dd326.css",
+    "main.js": "/29cm-clone/static/js/main.5295070f.js",
+    "static/js/453.e9a949b8.chunk.js": "/29cm-clone/static/js/453.e9a949b8.chunk.js",
+    "index.html": "/29cm-clone/index.html",
+    "main.cd9dd326.css.map": "/29cm-clone/static/css/main.cd9dd326.css.map",
+    "main.5295070f.js.map": "/29cm-clone/static/js/main.5295070f.js.map",
+    "453.e9a949b8.chunk.js.map": "/29cm-clone/static/js/453.e9a949b8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cd9dd326.css",
+    "static/js/main.5295070f.js"
+  ]
+}
